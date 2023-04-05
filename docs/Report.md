@@ -32,7 +32,7 @@
 | Tiền xử lý dữ liệu | 98% |  20120234, 20120236 |
 | Phân phối dữ liệu | 96% |  20120234, 20120237 |
 | Trực quan hoá dữ liệu | 100% |  20120234, 20120236, 20120237 |
-| Thuật toán Machine Learning | 0% |  20120234 |
+| Thuật toán Machine Learning | 100% |  20120234 |
 
 <div id="member_evaluating"/>
 
@@ -52,7 +52,7 @@
 - Nhóm quan tâm đến tình hình dịch bệnh COVID-19 tại châu Á và muốn tìm kiếm dữ liệu liên quan đến số ca nhiễm và số người chết do COVID-19 trong khu vực này để phục vụ cho mục đích nghiên cứu và phân tích, cụ thể là tập dữ liệu COVID-19 tại Ấn Độ nơi mà đang là quốc gia có số ca tử vong lớn nhất khu vực châu Á.
 
 ***2. Dữ liệu mà nhóm sinh viên là về chủ đề gì và được lấy từ nguồn nào?***
-- Dữ liệu được nhóm sinh viên chọn là "COVID-19 in India" từ trang [Kaggle](https://www.kaggle.com/) datasets: [https://www.kaggle.com/sudalairajkumar/covid19-in-iCOVID-19 in Indiandia](https://www.kaggle.com/sudalairajkumar/covid19-in-india). 
+- Dữ liệu được nhóm sinh viên chọn là "COVID-19 in India" từ trang [Kaggle](https://www.kaggle.com/) datasets: [https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india](https://www.kaggle.com/sudalairajkumar/covid19-in-india). 
 - Bộ dữ liệu này cung cấp thông tin về số ca nhiễm COVID-19 ở Ấn Độ theo các bang và quận từ ngày 30/01/2020 đến 11/08/2021.
 
 ***3. Người ta có cho phép sử dụng dữ liệu như thế này hay không? Ví dụ: cần kiểm tra thử License của dữ liệu là gì?***
@@ -115,3 +115,4 @@
 <div id="algorithm_detail"/>
 
 ## Chi tiết Thuật toán
+- Xem chi tiết trong phần 6 **Machine Learning Algorithmns Applications** của file notebook [Covid-19 in India](../source_codes/covid-19-india.ipynb)
