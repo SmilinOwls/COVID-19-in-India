@@ -7,7 +7,7 @@
 3. [Thu thập dữ liệu](#data_collecting)
 4. [Khám phá dữ liệu](#data_exploring)
 5. [Khám phá mối quan hệ dữ liệu](#data_relationship_exploring)
-6. [Chi tiết thuật toán](#algorithm_detail)
+6. [Chi tiết thuật toán](#algorithmn_detail)
 
 <div id="team_info"/>
 
@@ -112,7 +112,7 @@
 
 - Xem chi tiết trong phần 5 **Data Visulization** của file notebook [Covid-19 in India](../source_codes/covid-19-india.ipynb)
 
-<div id="algorithm_detail"/>
+<div id="algorithmn_detail"/>
 
 ## Chi tiết Thuật toán
 - Xem chi tiết trong phần 6 **Machine Learning Algorithmns Applications** của file notebook [Covid-19 in India](../source_codes/covid-19-india.ipynb)
