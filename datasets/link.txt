@@ -1,0 +1,3 @@
+* The file contains the two links which all describes dataset of COVID-19 in India (Jan 30st 2020 - Aug 11th, 2021)
+- Raw dataset: https://drive.google.com/file/d/1EBXwx3td6IuD8DdpYsbzl3Oh3UsnIhho/view?usp=sharing
+- Pre-precessed dataset: https://drive.google.com/file/d/1lBOyQKncJ5K6yAFjjqBnOhy7Hihzjdh3/view?usp=sharing
