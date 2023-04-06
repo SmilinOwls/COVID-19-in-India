@@ -8,6 +8,7 @@
 4. [Khám phá dữ liệu](#data_exploring)
 5. [Khám phá mối quan hệ dữ liệu](#data_relationship_exploring)
 6. [Chi tiết thuật toán](#algorithmn_detail)
+7. [Tài liệu tham khảo](#references)
 
 <div id="team_info"/>
 
@@ -29,7 +30,7 @@
 | Yêu cầu | Tỉ lệ hoàn thành | Sinh viên thực hiện |
 |--|--|--|
 | Viết báo cáo | 100% |  20120234, 20120194 |
-| Tiền xử lý dữ liệu | 98% |  20120234, 20120236 |
+| Tiền xử lý dữ liệu | 98% |  20120234, 20120236, 20120194 |
 | Phân phối dữ liệu | 96% |  20120234, 20120237 |
 | Trực quan hoá dữ liệu | 100% |  20120234, 20120236, 20120237 |
 | Thuật toán Machine Learning | 100% |  20120234 |
@@ -116,3 +117,8 @@
 
 ## Chi tiết Thuật toán
 - Xem chi tiết trong phần 6 **Machine Learning Algorithmns Applications** của file notebook [Covid-19 in India](../source_codes/covid-19-india.ipynb)
+
+<div id="references"/>
+
+## Tài liệu tham khảo
+- Nguyen Bao Long, Le Nhut Nam, Nguyen Ngoc Duc; Lab01 - Linear Regression (Julia); Môn học: Intro to ML (2023) 
